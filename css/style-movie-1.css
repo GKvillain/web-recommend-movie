@@ -95,6 +95,10 @@
 }
 
 video {
+  width: 45%;
+}
+
+video {
   display: block;
   margin: auto;
 }
